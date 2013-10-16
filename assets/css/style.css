@@ -1,0 +1,10 @@
+.fixChildWidths img {
+  width: 350px; }
+
+.whiteImgBgs img {
+  background-color: #dddddd !important;
+  padding: 10px; }
+
+.blackImgBgs img {
+  background-color: #222222 !important;
+  padding: 10px; }
